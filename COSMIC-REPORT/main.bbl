@@ -1,0 +1,892 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{phin}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ARAPDL}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={R.\bibnamedelima A. Phinney; D.\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARAPDL1}
+    \strng{fullhash}{ARAPDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1029/JA073i005p01819
+    \endverb
+    \field{number}{5}
+    \field{title}{On the radio occultation method for studying planetary
+  atmospheres}
+    \field{volume}{73}
+    \field{journaltitle}{Journal of Geophysical Research}
+    \field{year}{1968}
+  \endentry
+
+  \entry{anthes11}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ARA}{%
+         family={Anthes},
+         familyi={A\bibinitperiod},
+         given={Richard\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ARA1}
+    \strng{fullhash}{ARA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.5194/Amt-4-1077-2011
+    \endverb
+    \field{title}{Exploring Earth's atmosphere with radio occultation:
+  Contributions to weather, climate and space weather}
+    \field{volume}{4}
+    \field{journaltitle}{Atmospheric Measurement Techniques}
+    \field{year}{2011}
+  \endentry
+
+  \entry{lus}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BLGMAMJPSU}{%
+         family={B.\bibnamedelima Lusignan},
+         familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={G.\bibnamedelima Modrell; A. Morrison; J. Pomalaza;
+  S.G.\bibnamedelima Ungar},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLGMAMJPSU1}
+    \strng{fullhash}{BLGMAMJPSU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1109/PROC.1969.7000
+    \endverb
+    \field{number}{4}
+    \field{title}{Sensing the earth's atmosphere with occultation satellites}
+    \field{volume}{57}
+    \field{journaltitle}{Proceedings of the IEEE}
+    \field{year}{1969}
+  \endentry
+
+  \entry{king}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BDPKJ}{%
+         family={Ba:},
+         familyi={B\bibinitperiod},
+         given={Diederik P. Kingma;\bibnamedelima Jimmy},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BDPKJ1}
+    \strng{fullhash}{BDPKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.48550/arXiv.1412.6980
+    \endverb
+    \field{title}{Adam: A Method for Stochastic Optimization}
+    \field{journaltitle}{Proceedings of the 3rd International Conference on
+  Learning Representations (ICLR)}
+    \field{year}{2014}
+  \endentry
+
+  \entry{davis}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EJLDTAHIISAEERG}{%
+         family={Elgered},
+         familyi={E\bibinitperiod},
+         given={J.\bibnamedelima L. Davis; T. A. Herring; I. I. Shapiro; A. E.
+  E. Rogers;\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  I\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EJLDTAHIISAEERG1}
+    \strng{fullhash}{EJLDTAHIISAEERG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \verb{doi}
+    \verb 10.1029/RS020i006p01593
+    \endverb
+    \field{number}{6}
+    \field{title}{Geodesy by interferometry: Effects of atmospheric errors on
+  estimates of baseline length}
+    \field{volume}{20}
+    \field{journaltitle}{Radio Science}
+    \field{year}{1985}
+  \endentry
+
+  \entry{kur}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HERKGAHJTSRPLKR}{%
+         family={Hardy},
+         familyi={H\bibinitperiod},
+         given={E.\bibnamedelima R. Kursinski; G. A. Hajj; J. T. Schofield; R.
+  P. Linfield; K.\bibnamedelima R.},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HERKGAHJTSRPLKR1}
+    \strng{fullhash}{HERKGAHJTSRPLKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1029/97JD01569
+    \endverb
+    \field{title}{Observing Earth's atmosphere with radio occultation
+  measurements using the Global Positioning System}
+    \field{volume}{102}
+    \field{journaltitle}{Journal of Geophysical Research Atmospheres}
+    \field{year}{1997}
+  \endentry
+
+  \entry{mlp}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HMH}{%
+         family={Hassoun},
+         familyi={H\bibinitperiod},
+         given={Mohamad\bibnamedelima H},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{HMH1}
+    \strng{fullhash}{HMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Fundamentals of artificial neural networks}
+    \field{year}{1995}
+  \endentry
+
+  \entry{chen}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HSYCCYLCYHSCHHWLPHLJPCCY}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Shu-Ya Chen; Chian-Yi Liu; Ching-Yuang Huang; Shen-Cha Hsu;
+  Hsiu-Wen Li; Po-Hsiung Lin; Jia-Ping Cheng; Cheng-Yung},
+         giveni={S\bibinithyphendelim Y\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim C\bibinithyphendelim
+  Y\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  C\bibinithyphendelim Y\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim S\bibinithyphendelim
+  C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  H\bibinithyphendelim W\bibinitperiod\bibinitdelim
+  L\bibinitperiod\bibinitdelim P\bibinithyphendelim
+  H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  J\bibinithyphendelim P\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim C\bibinithyphendelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSYCCYLCYHSCHHWLPHLJPCCY1}
+    \strng{fullhash}{HSYCCYLCYHSCHHWLPHLJPCCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.3390/rs13040717
+    \endverb
+    \field{number}{4}
+    \field{title}{An Analysis Study of FORMOSAT-7/COSMIC-2 Radio Occultation
+  Data in the Troposphere}
+    \field{volume}{13}
+    \field{journaltitle}{Remote Sensing}
+    \field{year}{2021}
+  \endentry
+
+  \entry{singh}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HRSSPORAD}{%
+         family={Hunt},
+         familyi={H\bibinitperiod},
+         given={Randhir Singh; Satya P. Ojha; Richard Anthes;\bibnamedelima
+  Douglas},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  O\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRSSPORAD1}
+    \strng{fullhash}{HRSSPORAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1029/2021JD034935
+    \endverb
+    \field{number}{18}
+    \field{title}{Evaluation and Assimilation of the COSMIC-2 Radio Occultation
+  Constellation Observed Atmospheric Refractivity in the WRF Data Assimilation
+  System}
+    \field{volume}{126}
+    \field{journaltitle}{Journal of Geophysical Research Atmospheres}
+    \field{year}{2021}
+  \endentry
+
+  \entry{deep}{book}{}
+    \name{author}{1}{}{%
+      {{hash=IGACYB}{%
+         family={Ian\bibnamedelima Goodfellow},
+         familyi={I\bibinitperiod\bibinitdelim G\bibinitperiod},
+         suffix={Yoshua\bibnamedelima Bengio},
+         suffixi={Y\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Aaron\bibnamedelima Courville},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT press}%
+    }
+    \strng{namehash}{IGYBAC1}
+    \strng{fullhash}{IGYBAC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Deep Learning}
+    \field{year}{2016}
+  \endentry
+
+  \entry{stein}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KAKSBCLFLBSPUFG}{%
+         family={Kirchengast},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima K. Steiner; B. C. Lackner; F. Ladstädter; B.
+  Scherllin-Pirscher; U. Foelsche;\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  F\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim S\bibinithyphendelim
+  P\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim
+  F\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KAKSBCLFLBSPUFG1}
+    \strng{fullhash}{KAKSBCLFLBSPUFG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1029/2010RS004614
+    \endverb
+    \field{number}{6}
+    \field{title}{GPS radio occultation for climate monitoring and change
+  detection}
+    \field{volume}{46}
+    \field{journaltitle}{Radio Science}
+    \field{year}{2011}
+  \endentry
+
+  \entry{anthes0}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KRAACRYH}{%
+         family={Kuo},
+         familyi={K\bibinitperiod},
+         given={Richard A. Anthes; Christian Rocken; Ying-Hwa},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim Y\bibinithyphendelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KRAACRYH1}
+    \strng{fullhash}{KRAACRYH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.3319/Tao.2000.11.1.115(Cosmic)
+    \endverb
+    \field{title}{Applications of COSMIC to meteorology and climate}
+    \field{volume}{11}
+    \field{journaltitle}{Terrestrial, Atmospheric And Oceanic Sciences}
+    \field{year}{2000}
+  \endentry
+
+  \entry{kuo4}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KYHTKWSSCRWSDHRAA}{%
+         family={Kuo; Y.-H.},
+         familyi={K\bibinitperiod\bibinitdelim Y\bibinithyphendelim
+  H\bibinitperiod},
+         given={T.-K. Wee; S. Sokolovskiy; C. Rocken; W. Schreiner; D. Hunt; R.
+  A.\bibnamedelima Anthes},
+         giveni={T\bibinithyphendelim K\bibinitperiod\bibinitdelim
+  W\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KYHTKWSSCRWSDHRAA1}
+    \strng{fullhash}{KYHTKWSSCRWSDHRAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.2151/jmsj.2004.507
+    \endverb
+    \field{title}{Inversion and error estimation of GPS radio occultation
+  data.}
+    \field{volume}{82}
+    \field{journaltitle}{Journal of the Meteorological Society of Japan}
+    \field{year}{2004}
+  \endentry
+
+  \entry{lasota}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LE}{%
+         family={Lasota},
+         familyi={L\bibinitperiod},
+         given={Elżbieta},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LE1}
+    \strng{fullhash}{LE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1186/s40623-021-01548-4
+    \endverb
+    \field{title}{Comparison of diferent machine learning approaches for
+  tropospheric profling based on COSMIC-2 data}
+    \field{volume}{73}
+    \field{journaltitle}{Earth, Planets and Space}
+    \field{year}{2021}
+  \endentry
+
+  \entry{wickert}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MJWAGPYALTSCRKIAAPS}{%
+         family={Matyugov},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima Wickert; A. G. Pavelyev; Y. A. Liou; T.
+  Schmidt; C. Reigber; K. Igarashi; A. A. Pavelyev;\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MJWAGPYALTSCRKIAAPS1}
+    \strng{fullhash}{MJWAGPYALTSCRKIAAPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1029/2004GL020607
+    \endverb
+    \field{number}{24}
+    \field{title}{Amplitude variations in GPS signals as a possible indicator
+  of ionospheric structures}
+    \field{volume}{31}
+    \field{journaltitle}{Geophysical Research Letters}
+    \field{year}{2004}
+  \endentry
+
+  \entry{wolf}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OMBEW}{%
+         family={Oxford},
+         familyi={O\bibinitperiod},
+         given={Max Born; Emil\bibnamedelima Wolf},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OMBEW1}
+    \strng{fullhash}{OMBEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Principles of Optics Electromagnetic Theory of Propagation,
+  Interference and Diffraction of Light}
+    \field{journaltitle}{Pergamon Press}
+    \field{year}{1980}
+  \endentry
+
+  \entry{fjel}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RFGKAJEV}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Fjeldbo G.; Kliore A. J.; Eshleman\bibnamedelima V.},
+         giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RFGKAJEV1}
+    \strng{fullhash}{RFGKAJEV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The Neutral Atmosphere of Venus as Studied with the Mariner V
+  Radio Occultation Experiments}
+    \field{volume}{76}
+    \field{journaltitle}{Astronomical Journal}
+    \field{year}{1971}
+  \endentry
+
+  \entry{rennie}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RMP}{%
+         family={Rennie},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMP1}
+    \strng{fullhash}{RMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.1002/qj.521
+    \endverb
+    \field{title}{The impact of GPS radio occultation assimilation at the Met
+  Office}
+    \field{volume}{136}
+    \field{journaltitle}{Quarterly Journal of the Royal Meteorological Society}
+    \field{year}{2010}
+  \endentry
+
+  \entry{gorb}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SGMESV}{%
+         family={Sokolovskiy},
+         familyi={S\bibinitperiod},
+         given={Gorbunov M. E.; S.\bibnamedelima V.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGMESV1}
+    \strng{fullhash}{SGMESV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Remote sensing of refractivity from space for global
+  observations of atmospheric parameters}
+    \field{journaltitle}{Report 119 Max-Planck-Institute for Meteorology}
+    \field{year}{1993}
+  \endentry
+
+  \entry{gord}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TGD}{%
+         family={Thayer},
+         familyi={T\bibinitperiod},
+         given={Gordon\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TGD1}
+    \strng{fullhash}{TGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1029/RS009i010p00803
+    \endverb
+    \field{number}{10}
+    \field{title}{An improved equation for the radio refractive index of air}
+    \field{volume}{9}
+    \field{journaltitle}{Radio Science}
+    \field{year}{1974}
+  \endentry
+
+  \entry{leroy}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VSSLCOAO}{%
+         family={Verkhoglyadova},
+         familyi={V\bibinitperiod},
+         given={Stephen S. Leroy; Chi O. Ao;\bibnamedelima Olga},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  O\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VSSLCOAO1}
+    \strng{fullhash}{VSSLCOAO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \verb{doi}
+    \verb 10.1175/JTECH-D-11-00179.1
+    \endverb
+    \field{number}{8}
+    \field{title}{Mapping GPS Radio Occultation Data by Bayesian Interpolation}
+    \field{volume}{29}
+    \field{journaltitle}{Journal of Atmospheric and Oceanic Technology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{bev}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WMBSBTAHCRRAARH}{%
+         family={Ware},
+         familyi={W\bibinitperiod},
+         given={Michael Bevis; Steven Businger; Thomas A. Herring; Christian
+  Rocken; Richard A. Anthes; Randolph\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WMBSBTAHCRRAARH1}
+    \strng{fullhash}{WMBSBTAHCRRAARH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1029/92JD01517
+    \endverb
+    \field{title}{GPS meteorology: Remote sensing of atmospheric water vapor
+  using the global positioning system}
+    \field{volume}{97}
+    \field{journaltitle}{Journal of Geophysical Research Atmospheres}
+    \field{year}{1992}
+  \endentry
+
+  \entry{wein}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WEKSS}{%
+         family={Weintraub},
+         familyi={W\bibinitperiod},
+         given={Ernest K. Smith;\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WEKSS1}
+    \strng{fullhash}{WEKSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{The Constants in the Equation for Atmospheric Refractive
+  Index at Radio Frequencies}
+    \field{journaltitle}{Proceedings of the IRE}
+    \field{year}{1953}
+  \endentry
+
+  \entry{anthes3}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WLBGRRAKAADGEGGRGMJCMMMARPSRWRWW}{%
+         family={Wergen},
+         familyi={W\bibinitperiod},
+         given={Lennart Bengtsson; Gary Robinson; Rick Anthes; Kazumasa
+  Aonashi; Alan Dodson; Gunnar Elgered; Gerd Gendt; Robert Gurney; Mao Jietai;
+  Cathryn Mitchell; Morrison Mlaki; Andreas Rhodin; Pierluigi Silvestrin;
+  Randolph Ware; Robert Watson;\bibnamedelima Werner},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  G\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  G\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WLBGRRAKAADGEGGRGMJCMMMARPSRWRWW1}
+    \strng{fullhash}{WLBGRRAKAADGEGGRGMJCMMMARPSRWRWW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1175/Bams-84-9-1249
+    \endverb
+    \field{title}{The use of GPS measurements for water vapor determination}
+    \field{volume}{84}
+    \field{journaltitle}{Bulletin of the American Meteorological Society}
+    \field{year}{2003}
+  \endentry
+
+  \entry{hajj}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WCWGHXPIGRB}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Chunming Wang; George Hajj; Xiaoqing Pi; I. Gary
+  Rosen;\bibnamedelima Brian},
+         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  G\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  X\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  I\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WCWGHXPIGRB1}
+    \strng{fullhash}{WCWGHXPIGRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1029/2002RS002854
+    \endverb
+    \field{number}{1}
+    \field{title}{Development of the Global Assimilative Ionospheric Model}
+    \field{volume}{39}
+    \field{journaltitle}{Radio Science}
+    \field{year}{2004}
+  \endentry
+
+  \entry{scher}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZBSPAKSRAAMJASPARBTBJKWJRSWSTTZ}{%
+         family={Zeng},
+         familyi={Z\bibinitperiod},
+         given={Barbara Scherllin-Pirscher; Andrea K. Steiner; Richard A.
+  Anthes; M. Joan Alexander; Simon P. Alexander; Riccardo Biondi; Thomas
+  Birner; Joowan Kim; William J. Randel; Seok-Woo Son; Toshitaka
+  Tsuda;\bibnamedelima Zhen},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinithyphendelim
+  P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  S\bibinithyphendelim W\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZBSPAKSRAAMJASPARBTBJKWJRSWSTTZ1}
+    \strng{fullhash}{ZBSPAKSRAAMJASPARBTBJKWJRSWSTTZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1175/JCLI-D-20-0385.1
+    \endverb
+    \field{title}{Tropical Temperature Variability in the UTLS: New Insights
+  from GPS Radio Occultation Observations}
+    \field{volume}{34}
+    \field{journaltitle}{Journal of Climate}
+    \field{year}{2021}
+  \endentry
+
+  \entry{anthes8}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZRAAPABYCLCKFDDESBHSPHDCHYHKHLKMCMTKMWJRCRWSSSVSSSDCTKETTKWNLYZ}{%
+         family={Zeng},
+         familyi={Z\bibinitperiod},
+         given={R.\bibnamedelima A Anthes; P. A Bernhardt; Y. Chen; L.
+  Cucurull; K. F. Dymond; D. Ector; S. B. Healy; S.-P. Ho; D. C Hunt; Y.-H.
+  Kuo; H. Liu; K. Manning; C. McCormick; T. K. Meehan; W J. Randel; C. Rocken;
+  W S. Schreiner; S. V. Sokolovskiy; S. Syndergaard; D. C. Thompson; K. E.
+  Trenberth; T.-K. Wee; N. L. Yen;\bibnamedelima Z},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  Y\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  D\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  S\bibinithyphendelim P\bibinitperiod\bibinitdelim
+  H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  Y\bibinithyphendelim H\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  L\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim T\bibinithyphendelim
+  K\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  N\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  Y\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+  \strng{namehash}{ZRAAPABYCLCKFDDESBHSPHDCHYHKHLKMCMTKMWJRCRWSSSVSSSDCTKETTKWNLYZ1}
+  \strng{fullhash}{ZRAAPABYCLCKFDDESBHSPHDCHYHKHLKMCMTKMWJRCRWSSSVSSSDCTKETTKWNLYZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1175/Bams-89-3-313
+    \endverb
+    \field{title}{The COSMIC/Formosat-3 mission: Early results}
+    \field{volume}{89}
+    \field{journaltitle}{Bulletin of the American Meteorological Society}
+    \field{year}{2008}
+  \endentry
+
+  \entry{rocken}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZCRRAMEDHSSRWMGWSDFBHYHKX}{%
+         family={Zou},
+         familyi={Z\bibinitperiod},
+         given={C.\bibnamedelima Rocken; R. Anthes; M. Exner; D. Hunt; S.
+  Sokolovskiy; R. Ware; M. Gorbunov; W. Schreiner; D. Feng; B. Herman; Y.-H.
+  Kuo;\bibnamedelima X.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  D\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  R\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim
+  M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  W\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim
+  D\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  B\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  Y\bibinithyphendelim H\bibinitperiod\bibinitdelim
+  K\bibinitperiod\bibinitdelim X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZCRRAMEDHSSRWMGWSDFBHYHKX1}
+    \strng{fullhash}{ZCRRAMEDHSSRWMGWSDFBHYHKX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1029/97JD02400
+    \endverb
+    \field{title}{Analysis and validation of GPS/MET data in the neutral
+  atmosphere.}
+    \field{volume}{102}
+    \field{journaltitle}{Journal of Geophysical Research}
+    \field{year}{1997}
+  \endentry
+
+  \entry{xu}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZXXX}{%
+         family={Zou},
+         familyi={Z\bibinitperiod},
+         given={Xu\bibnamedelima Xu;\bibnamedelima Xiaolei},
+         giveni={X\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim
+  X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZXXX1}
+    \strng{fullhash}{ZXXX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.3390/rs14092189
+    \endverb
+    \field{number}{9}
+    \field{title}{COSMIC-2 RO Profile Ending at PBL Top with Strong Vertical
+  Gradient of Refractivity}
+    \field{volume}{14}
+    \field{journaltitle}{Remote Sensing}
+    \field{year}{2022}
+  \endentry
+\enddatalist
+\endinput
